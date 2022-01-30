@@ -1,0 +1,37 @@
+{
+  "name": "@veriff/react-native-sdk",
+  "title": "React Native Veriff SDK",
+  "version": "2.5.2",
+  "description": "React Native SDK for Veriff identity verification",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "homepage": "https://developers.veriff.com/#react-native-sdk-integration",
+  "keywords": [
+    "react-native",
+    "veriff",
+    "sdk",
+    "online",
+    "identity",
+    "verification"
+  ],
+  "author": {
+    "name": "Veriff",
+    "email": "support@veriff.com",
+    "url": "https://www.veriff.com/"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "@react-native-community/eslint-config": "^0.0.5",
+    "eslint": "^6.5.1",
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
